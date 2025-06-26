@@ -96,13 +96,10 @@ npm run dev
 
 ## 🧑‍💻 Author
 
-**Debabrot Bhuyan**
-[GitHub](https://github.com/debabrot) | [LinkedIn](https://www.linkedin.com/in/debabrot-bhuyan/)
+**Tushar Sable**
+[GitHub]((https://github.com/Tu9harSa6le)) | [LinkedIn](www.linkedin.com/in/tusharsable13)
 
 ---
 
-## 📄 License
-
-MIT License
 
 ---
